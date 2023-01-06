@@ -1,2 +1,2 @@
 # leitor-codigo
- 
+  Esse foi um projeto para exercício, visando o funcionamento em um comércio. Como não são todos que possuem o PHP e o MySQL instalado no computador, acabei simplificando em um array no código JS (modifique-o), é um projeto de caráter simplório, mas seu funcionamento urilizando leitor de código de barras pode interessar...
